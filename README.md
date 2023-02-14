@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakhedkar07
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 You can reach through my e-mail: sjaykhedkar1417@gmail.com
 
